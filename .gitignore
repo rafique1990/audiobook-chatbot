@@ -1,0 +1,142 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pyre type checker
+.pyre/
+
+# pytest
+.cache/
+*.pytest_cache
+
+# Rasa specific files
+.rasa/
+results/
+models/
+data/test/
+data/nlu.md.bak
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.py,cover
+
+# Virtual Environment
+local/
+bin/
+include/
+lib/
+Scripts/
+pyvenv.cfg
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea/*
+.idea/modules.xml
+.idea/workspace.xml
+.idea/.name
+.idea/vcs.xml
+.idea/dictionaries
+.idea/libraries
+.idea/tasks.xml
+.idea/inspectionProfiles
+.idea/runConfigurations
+.idea/copyright/
+.idea/scopes/
+.idea/codeStyles/
+.idea/gradle.xml
+.idea/jsLibraryMappings.xml
+.idea/modules/
+.idea/nodejs/
+.idea/php.xml
+.idea/sonarlint/
+.idea/sqlDataSources.xml
+.idea/webServers.xml
+.idea/android/
+.idea/compiler.xml
+.idea/copyright/
+.idea/debugger.xml
+.idea/dictionaries/
+.idea/editor.code.styles/
+.idea/gradle.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules/
+.idea/nodejs.xml
+.idea/php.xml
+.idea/scopes/
+.idea/sqlDataSources.xml
+.idea/sonarlint/
+.idea/tasks.xml
+.idea/tasks.xml
+.idea/webServers.xml
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*~
